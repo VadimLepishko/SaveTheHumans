@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>THOMAS8</Machine>
+    <WindowsUser>Thomas</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2552A944ED40C4F052A3E9C5A3F1F6CB40B3899117180AF16D14A30CBB456F0C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5e11a99d-750d-4767-8f83-4042c41ec9a7_1.0.0.0_neutral__xkj04xcm6e7n4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5e11a99d-750d-4767-8f83-4042c41ec9a7_xkj04xcm6e7n4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5e11a99d-750d-4767-8f83-4042c41ec9a7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Thomas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-07T21:42:54.027</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2014-06-08T11:16:34.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb">
+      <PackagePath>Save the Humans.pdb</PackagePath>
+      <Modified>2014-06-08T11:16:34.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-08T11:13:10.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-06-07T21:41:37.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-06-07T21:36:55.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-06-08T11:16:31.763</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-07T21:42:53.915</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+E:\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri
+E:\Projects\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml
+E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.build.appxrecipe
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\App.g.i.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\Common\StandardStyles.g.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\MainPage.g.i.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\MainPage.g.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\XamlTypeInfo.g.cs
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\App.xaml
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\Common\StandardStyles.xaml
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\MainPage.xaml
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\priconfig.xml
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\layout.resfiles
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\resources.resfiles
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\pri.resfiles
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\LanguageQualifiers.txt
+E:\Projects\Save the Humans\Save the Humans\obj\Debug\ProjectArchitectures.txt
