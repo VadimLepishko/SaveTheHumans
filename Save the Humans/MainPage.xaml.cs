@@ -54,6 +54,7 @@ namespace Save_the_Humans
                 targetTimer.Stop();
                 humanCaptured = false;
                 startButton.Visibility = Visibility.Visible;
+                gameOverText.Visibility = Visibility.Visible;
                 playArea.Children.Add(gameOverText);
             }
         }

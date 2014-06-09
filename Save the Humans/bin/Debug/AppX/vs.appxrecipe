@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
       <PackagePath>Save the Humans.exe</PackagePath>
-      <Modified>2014-06-08T11:16:34.583</Modified>
+      <Modified>2014-06-09T07:35:05.744</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb">
       <PackagePath>Save the Humans.pdb</PackagePath>
-      <Modified>2014-06-08T11:16:34.564</Modified>
+      <Modified>2014-06-09T07:35:05.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2014-06-08T11:16:31.763</Modified>
+      <Modified>2014-06-09T07:35:02.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\Save the Humans\Save the Humans\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

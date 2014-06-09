@@ -49,8 +49,8 @@
         </Grid>
         <Button x:Name="startButton" Content="Start!" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" RenderTransformOrigin="0.188,0.658" Click="startButton_Click"/>
         <StackPanel Grid.Column="2" Orientation="Vertical" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Style="{StaticResource SubheaderTextStyle}" Width="145" Height="30" Text="Avoid These"/>
-            <ContentControl Content="ContentControl" HorizontalAlignment="Left" Margin="30,0,0,0" VerticalAlignment="Center" Template="{StaticResource EnemyTemplate}"/>
+            <TextBlock HorizontalAlignment="Center" TextWrapping="Wrap" Style="{StaticResource SubheaderTextStyle}" Width="145" Height="37" Text="Avoid These" VerticalAlignment="Center"/>
+            <ContentControl Content="ContentControl" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Template="{StaticResource EnemyTemplate}"/>
         </StackPanel>
         <ProgressBar x:Name="progressBar" Grid.Column="1" Grid.Row="2" Height="20"/>
         <Canvas x:Name="playArea" Grid.Row="1" Grid.ColumnSpan="3" PointerMoved="playArea_PointerMoved" PointerExited="playArea_PointerExited">
@@ -60,12 +60,12 @@
                     <GradientStop Color="#FF8BAACF" Offset="1"/>
                 </LinearGradientBrush>
             </Canvas.Background>
-            <StackPanel x:Name="human" Orientation="Vertical" PointerPressed="human_PointerPressed">
-                <Ellipse Fill="White" Height="10" Width="10"/>
-                <Rectangle Fill="White" Height="25" Width="10"/>
+            <StackPanel x:Name="human" Orientation="Vertical" PointerPressed="human_PointerPressed" Canvas.Left="570" Canvas.Top="380">
+                <Ellipse Fill="#FFFFACAC" Height="20" Width="20"/>
+                <Rectangle Fill="#FF6200D8" Height="25" Width="10"/>
             </StackPanel>
-            <TextBox x:Name="gameOverText" TextWrapping="Wrap" Text="Game Over" FontFamily="Arial Black" FontSize="100" Width="705" Canvas.Left="355" Canvas.Top="288" FontWeight="Bold" FontStyle="Italic" TextAlignment="Center" Background="{x:Null}" Foreground="#FF00034B" IsReadOnly="True" RenderTransformOrigin="0.623,1.034" Height="180" HorizontalAlignment="Center" VerticalAlignment="Center" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False"/>
-            <Rectangle x:Name="target" Height="50" Canvas.Left="1090" Canvas.Top="220" Width="50" RenderTransformOrigin="0.5,0.5" PointerEntered="target_PointerEntered">
+            <TextBox x:Name="gameOverText" TextWrapping="Wrap" Text="Game Over" FontFamily="Courier New" FontSize="200" TextAlignment="Center" Foreground="#FF00034B" IsReadOnly="True" RenderTransformOrigin="0.623,1.034" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" IsTapEnabled="False" BorderThickness="0" Opacity="0.8" Background="{x:Null}" Height="205" Width="985" Canvas.Left="200" Canvas.Top="70"/>
+            <Rectangle x:Name="target" Height="50" Canvas.Left="935" Canvas.Top="345" Width="50" RenderTransformOrigin="2.763,-2.046" PointerEntered="target_PointerEntered" UseLayoutRounding="False" d:LayoutRounding="Auto">
                 <Rectangle.Fill>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                         <GradientStop Color="Black"/>
@@ -73,7 +73,7 @@
                     </LinearGradientBrush>
                 </Rectangle.Fill>
                 <Rectangle.RenderTransform>
-                    <CompositeTransform Rotation="45"/>
+                    <CompositeTransform Rotation="45" TranslateX="56.869" TranslateY="117.295"/>
                 </Rectangle.RenderTransform>
             </Rectangle>
         </Canvas>
